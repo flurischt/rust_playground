@@ -1,0 +1,5 @@
+cargo new hello_world --bin		# create new empty binary project
+cargo run 						# compile and run
+cargo build						# build in debug mode
+cargo build --release			# build with optimizations enabled
+
